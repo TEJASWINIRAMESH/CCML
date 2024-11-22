@@ -1,0 +1,11 @@
+
+1-basic-server.py   1c.py
+2and9-memseg.py
+3-msg-q copy.py      3-msg-q.py
+4and10-chat-server copy.py      4and10-chat-client copy.py
+4and10-chat-server.py        4and10-chat-client.py
+5-textfile-server.py      5-texfile-client.py
+6-IPC-pipe.c
+6-IPC-pipe.py
+7-RPC-server.py    7-RPCclient.py
+8-2pro-memseg.py
